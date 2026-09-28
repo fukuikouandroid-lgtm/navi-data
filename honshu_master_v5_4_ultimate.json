@@ -30101,10 +30101,10 @@
   },
   {
     "id": "206146864",
-    "name": "習志野TB",
+    "name": "湾岸習志野TB",
     "lat": 35.661317,
     "lng": 140.024805,
-    "type": "IC",
+    "type": "TB",
     "route_name": "E51",
     "is_loop": false,
     "node_order": 0
@@ -30364,7 +30364,7 @@
     "name": "宮野木料金所",
     "lat": 35.666392,
     "lng": 140.110756,
-    "type": "IC",
+    "type": "TB",
     "route_name": "東関東自動車道",
     "is_loop": false,
     "node_order": 0
