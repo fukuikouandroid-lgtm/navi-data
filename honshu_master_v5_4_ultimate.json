@@ -29279,17 +29279,7 @@
     "is_loop": false,
     "node_order": 0
   },
-  {
-    "id": "1934416305",
-    "name": "市原ＳＡ（上り）",
-    "lat": 35.457615,
-    "lng": 140.084531,
-    "type": "IC",
-    "route_name": "E14",
-    "is_loop": false,
-    "node_order": 0
-  },
-  {
+ {
     "id": "364203351",
     "name": "大黒JCT",
     "lat": 35.461096,
@@ -30037,16 +30027,6 @@
     "type": "JCT",
     "route_name": "首都高速中央環状線, B",
     "is_loop": true,
-    "node_order": 0
-  },
-  {
-    "id": "1934416288",
-    "name": "市原ＳＡ（下り）",
-    "lat": 35.462155,
-    "lng": 140.085897,
-    "type": "IC",
-    "route_name": "E14",
-    "is_loop": false,
     "node_order": 0
   },
   {
@@ -31180,16 +31160,6 @@
     "node_order": 0
   },
   {
-    "id": "370268583",
-    "name": "蓮田SA (上り);蓮田スマートIC",
-    "lat": 35.980469,
-    "lng": 139.664296,
-    "type": "PA",
-    "route_name": "E4",
-    "is_loop": false,
-    "node_order": 0
-  },
-  {
     "id": "678477031",
     "name": "桶川北本ＩＣ",
     "lat": 35.998855,
@@ -31215,16 +31185,6 @@
     "lat": 35.998765,
     "lng": 139.66615,
     "type": "IC",
-    "route_name": "E4",
-    "is_loop": false,
-    "node_order": 0
-  },
-  {
-    "id": "1180537855",
-    "name": "蓮田SA (下り);蓮田スマートIC",
-    "lat": 35.995834,
-    "lng": 139.665338,
-    "type": "PA",
     "route_name": "E4",
     "is_loop": false,
     "node_order": 0
@@ -54424,7 +54384,7 @@
     "name": "市原SA (下り)",
     "lat": 35.458849,
     "lng": 140.085896,
-    "type": "PA",
+    "type": "SA",
     "route_name": "E14",
     "is_loop": false,
     "node_order": 0
@@ -54544,7 +54504,7 @@
     "name": "市原SA (上り)",
     "lat": 35.460565,
     "lng": 140.084744,
-    "type": "PA",
+    "type": "SA",
     "route_name": "E14",
     "is_loop": false,
     "node_order": 0
